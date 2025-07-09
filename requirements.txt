@@ -3,3 +3,4 @@ uvicorn
 requests
 youtube-transcript-api
 fpdf
+python-dotenv
