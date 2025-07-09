@@ -4,4 +4,3 @@ requests
 youtube-transcript-api
 fpdf
 python-dotenv
-git+https://github.com/mcptools/fastmcp.git
