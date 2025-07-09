@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+youtube-transcript-api
+fpdf
+mcp-fastmcp
